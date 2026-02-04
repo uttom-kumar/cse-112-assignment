@@ -15,4 +15,6 @@ add_executable(CLionProjects main.cpp
         Capter_1/topic_1.5/Examples/1.cpp
         Capter_1/topic_1.5/Examples/2.cpp
         Capter_1/topic_1.5/Examples/problem3.cpp
+        Capter_1/topic_1.6/Examples/problem1.cpp
+        Capter_1/topic_1.6/Examples/problem2.cpp
 )
