@@ -1,5 +1,6 @@
 /*
- The next program prompts the user for an integer value i, floating point vlue and a string. It then uses one input statement to read all three.
+ The next program prompts the user for an integer value i, floating point vlue and a string.
+ It then uses one input statement to read all three.
  */
 
 #include <iostream>
