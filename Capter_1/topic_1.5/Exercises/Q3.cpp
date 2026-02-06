@@ -1,3 +1,8 @@
+/*
+    Create a queue class that maintains a circular queue of integers. Makes the queue size 100 integers long.
+    Include a short main() function that demonstrates its operation.
+ */
+
 #include <iostream>
 using namespace std;
 

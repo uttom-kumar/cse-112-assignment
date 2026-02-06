@@ -1,3 +1,8 @@
+/*
+    Rework the queue class that you developed as an exercise in Chapter 1 by replacing  its initialization
+    function with a constructor.
+ */
+
 #include <iostream>
 using namespace std;
 

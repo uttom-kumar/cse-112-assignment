@@ -1,3 +1,9 @@
+/*
+    Create a class called t_and_d that is passed the current system timr and date as a parameter to its constructor
+    when it is created. Have the class include a member function that displays this time and date on the screen.
+    (Hint : use tha standard time and date functions found in the standard library to find and display the time adn date.
+ */
+
 #include <iostream>
 #include <ctime>
 using namespace std;

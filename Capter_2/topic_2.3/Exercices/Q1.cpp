@@ -1,3 +1,7 @@
+/*
+    Given the following base class
+ */
+
 #include <iostream>
 using namespace std;
 

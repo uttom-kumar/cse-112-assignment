@@ -1,3 +1,6 @@
+/*
+    If you have not node so, enter and run the programs shown in the example for this section.
+ */
 #include <iostream>
 using namespace std;
 
@@ -19,7 +22,7 @@ public:
 };
 
 int main() {
-    myclass uzzol("M.uzzol Hossain","2025403124");
-    uzzol.print();
+    myclass uttom("Uttom kumar","2025403111");
+    uttom.print();
 
 }

@@ -1,3 +1,10 @@
+/*
+    Create a class called card that maintains a library card tatalog entry. Have the class store a book's
+    title, author and number of copies on hand. Store the title and author as strings and the number on
+    hand as an integer. Use a public member function called store () to store a book's information and a public
+    member function called show() to display the information. Include a short main() function to demonstrate the class.
+
+ */
 #include <iostream>
 using namespace std;
 

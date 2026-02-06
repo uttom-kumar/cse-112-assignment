@@ -1,3 +1,9 @@
+/*
+    Create a class called box whose constractor function is passed three double values, each of which represents
+    the length of one side of a box. Have the box class compute the volume of the box and store the result in a
+    double variable. Include a member function called vol() that displays the volume of each box object.
+ */
+
 #include <iostream>
 using namespace std;
 

@@ -1,3 +1,11 @@
+/*
+    Create a class called stopwatch that emulates a stopwatch that keeps track of elapsed time. Use
+    a constructor to initially set the elapsed time to 0. Provide two member function called start()
+    and stop() that turn on and off the timer, respectively. Include a member function called show()
+    that displays the elapsed time. Also have the destructor function automatically display elapsed
+    time when a stopwatch object is destroyed. (To simplify, report the time in seconds.)
+ */
+
 #include <iostream>
 using namespace std;
 #include <ctime>

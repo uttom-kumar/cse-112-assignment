@@ -1,4 +1,7 @@
-
+/*
+    Change the stack class so it dynamically allocates memory for the stack. Have the size of the stack specified
+    by a parameter to the constructor function. (Don't forget to free this memory with a destructor function.)
+ */
 #include <iostream>
 using namespace std;
 

@@ -11,7 +11,7 @@ add_executable(CLionProjects main.cpp
         Capter_1/topic_1.3/Examples/problem5.cpp
         Capter_1/topic_1.4/Examples/problem1.cpp
         Capter_1/topic_1.4/Examples/problem2.cpp
-        Capter_1/topic_1.4/Exercises/1.cpp
+        Capter_1/topic_1.4/Exercises/Q1.cpp
         Capter_1/topic_1.5/Examples/Q1.cpp
         Capter_1/topic_1.5/Examples/Q2.cpp
         Capter_1/topic_1.5/Examples/Q3.cpp
@@ -24,9 +24,9 @@ add_executable(CLionProjects main.cpp
         Capter_1/topic_1.7/examples/problem3.cpp
         Capter_1/topic_1.7/exercises/problem1.cpp
         Capter_1/topic_1.7/exercises/problem2.cpp
-        Capter_1/topic_1.3/Exercises/Q_1.cpp
-        Capter_1/topic_1.3/Exercises/Q_2.cpp
-        Capter_1/topic_1.3/Exercises/Q_3.cpp
+        Capter_1/topic_1.3/Exercises/Q1.cpp
+        Capter_1/topic_1.3/Exercises/Q2.cpp
+        Capter_1/topic_1.3/Exercises/Q3.cpp
         Capter_1/topic_1.5/Exercises/Q1.cpp
         Capter_1/topic_1.5/Exercises/Q2.cpp
         Capter_1/topic_1.5/Exercises/Q3.cpp

@@ -1,4 +1,7 @@
-/**/
+/*
+    Write a program that inputs the number of ours that an employee works and the employee's wage.
+    Then display the employee's gross pay.(Be sure to prompt for input.)
+ */
 
 #include <iostream>
 using namespace std;
