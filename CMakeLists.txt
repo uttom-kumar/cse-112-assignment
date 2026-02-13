@@ -44,4 +44,5 @@ add_executable(CLionProjects main.cpp
         capter_3/topic_3.3/Q2.cpp
         Capter_2/topic_2.1/Example/topic_2.1/Q1.cpp
         Capter_2/topic_2.1/Example/topic_2.1/Q2.cpp
+        Capter_2/topic_2.1/Example/topic_2.1/Q3.cpp
 )
